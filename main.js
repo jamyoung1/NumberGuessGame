@@ -71,7 +71,6 @@ function reset() {
     // 새로운 번호가 생성이 된다.
     userInput.value=""
     pickRandomNum();
-    resultArea=textContent="결과값이 나온다."
+    change = 5;
 }
 pickRandomNum();
-
